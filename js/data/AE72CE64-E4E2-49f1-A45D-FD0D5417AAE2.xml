@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1:1", "", "Competencias laborales", "EARoot/EA1/EA1.html", "176.png", "17", "0", "", "Package diagram0","{2C537A80-E3DB-4d7e-911F-F837E488E3E0}");
-tocTab[tocTab.length] = new Array("0.1:2", "", "«Chart» Elements by Status", "EARoot/EA1/EA4.html", "5.png", "E63", "0", "", "Class0","{0B3161EB-0D34-4094-9C9C-3C63A81F69CC}");
-tocTab[tocTab.length] = new Array("0.1:3", "", "«TimeSeriesChart» Total Changes", "EARoot/EA1/EA7.html", "5.png", "E62", "0", "", "Class0","{0A8ED207-D885-4751-BF22-FEBD75C9B28D}");
-tocTab[tocTab.length] = new Array("0.1.1", "1", "Extraccion", "EARoot/EA1/EA1/EA10.html", "4.png", "", "", "{7FFDBBD2-E6BA-4c5b-925E-2E7D3853F999}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2", "1", "Formalizacion", "EARoot/EA1/EA2/EA24.html", "4.png", "", "", "{55902ED4-D268-4394-92A3-DEDB29303928}", "Package");
