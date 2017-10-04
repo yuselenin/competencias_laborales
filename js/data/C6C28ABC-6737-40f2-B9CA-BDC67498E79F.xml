@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("1.1.3:1", "", "pre-procesing.Models", "EARoot/EA1/EA1/EA3/EA36.html", "175.png", "51", "0", "", "Logical diagram0","{8CEF79A7-C0E2-4184-8D81-516619B8C311}");
-tocTab[tocTab.length] = new Array("1.1.3:2", "", "«django.Model» Catalogo_competencia", "EARoot/EA1/EA1/EA3/EA38.html", "5.png", "43", "0", "", "Class0","{7B84C8AC-621C-4176-83E5-279D3F12B180}");
-tocTab[tocTab.length] = new Array("1.1.3:3", "", "«django.Model» Catalogo_competencia_estandarizada", "EARoot/EA1/EA1/EA3/EA41.html", "5.png", "186", "0", "", "Class0","{C5697581-848C-4187-95DE-E391D35ECBF3}");
+tocTab[tocTab.length] = new Array("1.2.2.1:1", "", "pre-procesing.Models", "EARoot/EA1/EA2/EA2/EA1/EA73.html", "175.png", "155", "0", "", "Logical diagram0","{8CEF79A7-C0E2-4184-8D81-516619B8C311}");
+tocTab[tocTab.length] = new Array("1.2.2.1:2", "", "«django.Model» Catalogo_competencia", "EARoot/EA1/EA2/EA2/EA1/EA75.html", "5.png", "545", "0", "", "Class0","{7B84C8AC-621C-4176-83E5-279D3F12B180}");
+tocTab[tocTab.length] = new Array("1.2.2.1:3", "", "«django.Model» Catalogo_competencia_estandarizada", "EARoot/EA1/EA2/EA2/EA1/EA76.html", "5.png", "546", "0", "", "Class0","{C5697581-848C-4187-95DE-E391D35ECBF3}");

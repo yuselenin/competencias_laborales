@@ -1,3 +1,4 @@
 tocTab[tocTab.length] = new Array("0:1", "", "Competencias laborales", "EARoot/EA1.html", "176.png", "17", "0", "", "Package diagram0","{2C537A80-E3DB-4d7e-911F-F837E488E3E0}");
-tocTab[tocTab.length] = new Array("1", "1", "Modelo de clases", "EARoot/EA3.html", "4.png", "", "", "{C9DE38F2-9446-4aa0-B7C5-A8BB979B5C1D}", "Package");
-tocTab[tocTab.length] = new Array("2", "1", "Requisitos", "EARoot/EA4.html", "4.png", "", "", "{673662BA-1F24-43ab-AA4F-99FC5410D049}", "Package");
+tocTab[tocTab.length] = new Array("1", "1", "apps", "EARoot/EA3.html", "4.png", "", "", "{E6C4E53F-64AF-4d29-AC64-436F8800444F}", "Package");
+tocTab[tocTab.length] = new Array("2", "1", "Aquitectura", "EARoot/EA4.html", "4.png", "", "", "{26B91638-D1CA-406e-AE43-B64A35E29D12}", "Package");
+tocTab[tocTab.length] = new Array("3", "1", "Requerimientos", "EARoot/EA5.html", "4.png", "", "", "{673662BA-1F24-43ab-AA4F-99FC5410D049}", "Package");

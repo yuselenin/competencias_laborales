@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.2.2.2.1:1", "", "Catalogo_competencia.py", "EARoot/EA1/EA2/EA2/EA2/EA1/EA83.html", "175.png", "173", "0", "", "Logical diagram0","{3F476D30-EB05-4691-B73C-B37BE8C01B04}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1:2", "", "Catalogo_competencia_CreateView", "EARoot/EA1/EA2/EA2/EA2/EA1/EA85.html", "5.png", "580", "0", "", "Class0","{F6E39600-4C74-4800-8E69-05988E372805}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1:3", "", "Catalogo_competencia_DeleteView", "EARoot/EA1/EA2/EA2/EA2/EA1/EA86.html", "5.png", "582", "0", "", "Class0","{23BC9036-B5F8-40c1-9E37-544CF2CDA80C}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1:4", "", "Catalogo_competencia_DetailView", "EARoot/EA1/EA2/EA2/EA2/EA1/EA87.html", "5.png", "583", "0", "", "Class0","{F0D15C65-89BE-415d-9FE4-CA80EBDE3354}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1:5", "", "Catalogo_competencia_ListView", "EARoot/EA1/EA2/EA2/EA2/EA1/EA88.html", "5.png", "584", "0", "", "Class0","{54479BB4-0E10-4ecd-96F5-4FD495DC8036}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1:6", "", "Catalogo_competencia_UpdateView", "EARoot/EA1/EA2/EA2/EA2/EA1/EA89.html", "5.png", "581", "0", "", "Class0","{B4E4FB53-595F-40c2-A95A-D6B73A04D05D}");

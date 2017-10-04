@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("1.2.1:1", "", "Modelo de casos de uso", "EARoot/EA1/EA2/EA1/EA65.html", "180.png", "152", "0", "", "Use Case diagram0","{218EA86D-DE1E-45c4-9A5A-699065A8E9A3}");
+tocTab[tocTab.length] = new Array("1.2.1:2", "", "Aplicar receta", "EARoot/EA1/EA2/EA1/EA67.html", "7.png", "537", "0", "", "UseCase0","{068EAFEB-C847-460b-9297-4ADA06B45A8E}");

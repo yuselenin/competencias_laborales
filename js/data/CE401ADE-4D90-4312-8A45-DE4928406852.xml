@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.2.2.2:1", "", "View Laver", "EARoot/EA1/EA2/EA2/EA2/EA79.html", "175.png", "172", "0", "", "Logical diagram0","{A4F7404C-91AC-4d55-9579-AE623D99A7BE}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1", "1", "Catalogo_competencia", "EARoot/EA1/EA2/EA2/EA2/EA81.html", "4.png", "", "", "{2D2B9C4B-25AC-4d36-8E20-C000EFE2797E}", "Package");
+tocTab[tocTab.length] = new Array("1.2.2.2.2", "1", "Catalogo_competencia_estandarizada", "EARoot/EA1/EA2/EA2/EA2/EA82.html", "4.png", "", "", "{6ABD8131-737D-480c-AC92-C47AC32F8B6F}", "Package");

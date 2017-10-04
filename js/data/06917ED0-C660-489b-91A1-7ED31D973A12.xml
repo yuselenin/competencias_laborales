@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("2.1.3:1", "", "User Interface", "EARoot/EA2/EA1/EA3/EA66.html", "188.png", "24", "0", "", "Custom diagram0","{95A60609-1357-48fa-8BF7-FEA7AEF06A63}");
-tocTab[tocTab.length] = new Array("2.1.3:2", "", "Screen1", "EARoot/EA2/EA1/EA3/EA72.html", "11.png", "109", "0", "", "Screen0","{208776F3-530F-4ec5-B280-D1CFF126E84E}");
-tocTab[tocTab.length] = new Array("2.1.3:3", "", "Screen2", "EARoot/EA2/EA1/EA3/EA73.html", "11.png", "108", "0", "", "Screen0","{859BD285-FAC8-4436-97F0-11BC1C89E02F}");
-tocTab[tocTab.length] = new Array("2.1.3:4", "", "«list» UI Control", "EARoot/EA2/EA1/EA3/EA74.html", "16.png", "107", "109", "", "GUIElement0","{529C2AEB-C9CB-4d9c-AED7-7A12E3D6748D}");
