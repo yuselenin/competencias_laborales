@@ -5,11 +5,28 @@
 <title>Competencias laborales</title>
 <link href="../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
-function initPage(src) {
+function initPage(src) {	
 	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
 		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
 	else
 		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
 }
 </script>
 </head>
@@ -19,13 +36,13 @@ function initPage(src) {
 <img src="EA2.png" usemap="#EA2" border="0" />
 
 <MAP NAME="EA2">
-<area shape="rect" coords="273,211,403,291" href="./EA1/EA6.html">
-<area shape="rect" coords="379,314,544,471" href="./EA2/EA4/EA147.html">
-<area shape="rect" coords="172,108,302,217" href="./EA2/EA116.html">
-<area shape="rect" coords="10,10,195,90" href="./EA3/EA179.html">
+<area shape="rect" coords="273,211,403,291" href="./EA1/EA7.html" target="_self">
+<area shape="rect" coords="379,314,580,520" href="./EA2/EA4/EA181.html" target="_self">
+<area shape="rect" coords="172,108,302,218" href="./EA2/EA138.html" target="_self">
+<area shape="rect" coords="10,10,194,90" href="./EA3/EA221.html" target="_self">
 </MAP>
 
-	<div class="ObjectTitle">Competencias laborales : paquete diagram</div>
+	<div class="ObjectTitle">Competencias laborales : Package diagram</div>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>

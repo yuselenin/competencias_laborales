@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Despliegue</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA182.png" usemap="#EA182" border="0" />
+
+<MAP NAME="EA182">
+<area shape="rect" coords="825,116,915,206" href="EA185.html" target="_self">
+<area shape="rect" coords="251,887,456,945" href="EA207.html" target="_self">
+<area shape="rect" coords="204,843,490,959" href="EA184.html" target="_self">
+<area shape="rect" coords="822,507,986,682" href="EA193.html" target="_self">
+<area shape="rect" coords="817,275,972,445" href="EA194.html" target="_self">
+<area shape="rect" coords="341,539,471,619" href="./EA3/EA214.html" target="_self">
+<area shape="rect" coords="429,417,559,497" href="./EA1/EA208.html" target="_self">
+<area shape="rect" coords="242,415,362,495" href="./EA2/EA211.html" target="_self">
+<area shape="rect" coords="82,381,212,479" href="EA197.html" target="_self">
+<area shape="rect" coords="281,246,402,299" href="EA200.html" target="_self">
+<area shape="rect" coords="273,53,407,115" href="EA204.html" target="_self">
+<area shape="rect" coords="69,704,601,761" href="EA202.html" target="_self">
+<area shape="rect" coords="229,379,569,634" href="EA195.html" target="_self">
+<area shape="rect" coords="70,327,596,679" href="EA199.html" target="_self">
+<area shape="rect" coords="42,217,637,790" href="EA205.html" target="_self">
+<area shape="rect" coords="250,10,427,124" href="EA189.html" target="_self">
+<area shape="rect" coords="10,167,676,819" href="EA191.html" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Despliegue : Deployment diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">27/09/2017 10:13:36 a.m.</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">17/10/2017 05:17:51 p.m.</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Yuselenin</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{00EC273E-40E8-4b84-9205-82BB92A42A6A}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>
