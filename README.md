@@ -1,4 +1,2 @@
-# UML
-
-En este repositorio se presenta los diagramas UML.
-El proyecto en desarrollo esta en https://github.com/asw-20172/clabmiming
+# Diagramas UML
+  Este repositorio es para diagramas UML del proyecto en desarrollo https://github.com/asw-20172/clabmiming
